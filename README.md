@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # <img src="https://raw.githubusercontent.com/b0bbydev/b0bbydev/master/github-banner.png">
 ## Welcome to my GitHub Profile!
-My name is Bobby Jonkman and currently a student studying Software Development. I'm passionate about creating open-source projects and using technology to elevate our community and the people involved. Some of the technologies that I enjoy working with include NodeJS (Javascript + APIs), Java and PHP.
+My name is Bobby Jonkman and I'm currently a student studying Computer Programming. I'm passionate about creating open-source projects and using technology to elevate our community and the people involved. Some of the technologies that I enjoy working with include NodeJS (Javascript + APIs), Java and PHP.
 ## Find me around the web at 🌎:
 - My personal [portfolio](https://bobbyjonkman.ca/) 📫
 - Networking on [LinkedIn](https://www.linkedin.com/in/bobby-jonkman-28716617a/) 💼
